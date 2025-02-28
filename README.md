@@ -7,7 +7,7 @@
 - [Material de la cátedra](https://ideas.info.unlp.edu.ar/sistemas-paralelos-2025/Contents/Material/View/Show?idCourseTool=30e0e6e4-27f5-11e6-b67b-9e71128cae77)
 - [Link clases virtuales de los martes](https://infolp.webex.com/infolp/j.php?MTID=m1cea8162413ac7baf8a09f2b1f02306e)
 
-### Clases teoricas
+### Clases teóricas
 
 - [Clase 1](https://youtu.be/3mOEJXb56Tk)
 - [Clase 2](https://youtu.be/8rv0RwBZTTM)
@@ -24,7 +24,6 @@
 - Se debe aprobar la entrega de 3 trabajos prácticos y su posterior coloquio.
 - Cada uno de los trabajos prácticos tiene una fecha de recuperación.
 - Los trabajos prácticos serán individuales o grupales, según indique la cátedra.
--
 
 ## Cómo se aprueba la promoción?
 
