@@ -5,6 +5,7 @@
 ### General
 
 - [Material de la cátedra](https://ideas.info.unlp.edu.ar/sistemas-paralelos-2025/Contents/Material/View/Show?idCourseTool=30e0e6e4-27f5-11e6-b67b-9e71128cae77)
+- [Weblidi de la cátedra](https://weblidi.info.unlp.edu.ar/catedras/paralela/index.html)
 - [Link clases virtuales de los martes](https://infolp.webex.com/infolp/j.php?MTID=m1cea8162413ac7baf8a09f2b1f02306e)
 
 ### Clases teóricas
