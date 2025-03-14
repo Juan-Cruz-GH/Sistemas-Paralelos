@@ -7,6 +7,7 @@
 - [Material de la cátedra](https://ideas.info.unlp.edu.ar/sistemas-paralelos-2025/Contents/Material/View/Show?idCourseTool=30e0e6e4-27f5-11e6-b67b-9e71128cae77)
 - [Weblidi de la cátedra](https://weblidi.info.unlp.edu.ar/catedras/paralela/index.html)
 - [Link clases virtuales de los martes](https://infolp.webex.com/infolp/j.php?MTID=m1cea8162413ac7baf8a09f2b1f02306e)
+- Contacto: sparalelos@lidi.info.unlp.edu.ar
 
 ### Clases teóricas
 
@@ -22,9 +23,11 @@
 
 ## Cómo se aprueba la cursada?
 
-- Se debe aprobar la entrega de 3 trabajos prácticos y su posterior coloquio.
+- Se debe aprobar la entrega de 3 trabajos prácticos y su posterior **coloquio obligatorio**.
 - Cada uno de los trabajos prácticos tiene una fecha de recuperación.
-- Los trabajos prácticos serán individuales o grupales, según indique la cátedra.
+- Los trabajos prácticos son grupales: grupos de 2 integrantes.
+- El trabajo experimental debe realizarse en equipo remoto de la cátedra (salvo que se indique lo contrario).
+- Se recomienda “desarrollar en casa” y usar el tiempo de consulta para despejar dudas.
 
 ## Cómo se aprueba la promoción?
 
